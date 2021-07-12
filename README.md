@@ -12,3 +12,6 @@
 ## Python3
 
 [Python3](https://github.com/itc-s21009/lesson.git)
+
+## SSH test
+aaa
